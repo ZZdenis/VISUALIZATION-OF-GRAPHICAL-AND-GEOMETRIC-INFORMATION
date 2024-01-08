@@ -1,3 +1,5 @@
-# VISUALIZATION-OF-GRAPHICAL-AND-GEOMETRIC-INFORMATION
-assignments for VISUALIZATION OF GRAPHICAL AND GEOMETRIC INFORMATION
-in each separate branch will be the Practical assignments
+# WebGL
+
+Project that accompanies VGGI credit module.
+
+Visit vggi-kpi.blogspot.com for more information
