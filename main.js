@@ -334,7 +334,7 @@ function LoadTexture() {
 
     const image = new Image();
     image.crossOrigin = 'anonymus';
-    image.src = "https://github.com/ZZdenis/VISUALIZATION-OF-GRAPHICAL-AND-GEOMETRIC-INFORMATION/blob/CGW/abstract_texture.jpg";
+    image.src = "https://raw.githubusercontent.com/ZZdenis/VISUALIZATION-OF-GRAPHICAL-AND-GEOMETRIC-INFORMATION/CGW/abstract_texture.jpg";
     image.onload = () => {
         gl.bindTexture(gl.TEXTURE_2D, texture);
         gl.texImage2D(
